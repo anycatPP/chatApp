@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056401955163",
+    "firebase_url": "https://testing-3550c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testing-3550c",
+    "storage_bucket": "testing-3550c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056401955163:android:004a16aa38ead6e5e3e27e",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056401955163-vbr9ai32mtmgbaa27lbiibfimh09s7i7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "b35e20797679810112c9615376837293229cecac"
+          }
+        },
+        {
+          "client_id": "1056401955163-s9sq507f7r3jqsb2bidnnolbqco40h77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCczG4SClV8_EB2-Ty3B61U0Ox6tjYgKKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056401955163-s9sq507f7r3jqsb2bidnnolbqco40h77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
